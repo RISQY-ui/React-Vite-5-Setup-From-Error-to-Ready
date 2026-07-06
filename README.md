@@ -12,12 +12,13 @@ Error when creating React project because Node.js version 18 on the laptop does 
 ---
 
 2. Three Terminal Commands Successfully Executed
+```
 
 No Command Function
 1 npm create vite@5 Created a new frontend project folder named frontend-faris
 2 npm install Downloaded all basic React.js packages and dependencies
 3 npm install axios Installed data fetcher from Laravel
-
+```
 ---
 
 3. Folder Structure Understanding
@@ -48,4 +49,5 @@ Laravel Backend ✅ Complete (endpoint /model-name)
 React Frontend (Vite 5) ✅ Installed
 Axios ✅ Installed
 App.jsx File ⏸️ Not yet edited
-React Server ⏸️  Not yet started
+React Server ⏸️ Not yet started
+---
